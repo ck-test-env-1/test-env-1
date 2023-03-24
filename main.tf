@@ -3,7 +3,7 @@ provider "aws" {
 }
 
 resource "aws_s3_bucket" "cloudrail" {
-  bucket = "cloudrail-non-encrypted-czx7zxchs"
+  bucket = "cloudrail-non-encrypted-czx7zx124214124chs"
   acl    = "private"
 }
 
